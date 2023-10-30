@@ -1,0 +1,10 @@
+#file paths
+
+HOME=/home/ubuntu
+PROVENANCE_BINARY=$HOME/go/bin/provenanced
+
+PROVENANCE_DIR=/home/ubuntu/zeeve
+
+data_dir=$PROVENANCE_DIR/.provenanced/data
+
+PIO_HOME=$PROVENANCE_DIR/.provenanced
